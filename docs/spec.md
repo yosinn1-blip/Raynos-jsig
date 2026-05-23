@@ -35,7 +35,7 @@ someIdentifier : {{TypeExpression}}
 ```
 
 An assignment statement is an identifier and a type expression
-    seperated by a `:` symbol.
+    separated by a `:` symbol.
 
 An identifier is a reference to some concrete value in JavaScript.
 
@@ -85,7 +85,7 @@ import { A, B, ... } from "./other-file.jsig"
 ```
 
 An import statement is an `import` keyword followed by a comma
-    seperated list of type names in curly braces, followed by
+    separated list of type names in curly braces, followed by
     a `from` keyword and a file name.
 
 An import statement allows you to import one or more custom
